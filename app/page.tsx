@@ -1,4 +1,3 @@
-import Image from "next/image";
 import CurrencyConverter from "./component/currencyConverter";
 
 export default function Home() {
